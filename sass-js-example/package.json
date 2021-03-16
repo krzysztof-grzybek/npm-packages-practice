@@ -1,0 +1,23 @@
+{
+  "name": "sass-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform-sass.js",
+  "dependencies": {
+    "binary-extensions": "^2.2.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.1",
+    "normalize-path": "^3.0.0",
+    "is-number": "^7.0.0",
+    "glob-parent": "^5.1.2",
+    "is-binary-path": "^2.1.0"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
